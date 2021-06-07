@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SmithsonD
 - 👀 I’m interested in BI, Cloud Computing
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <a style="display: inline" href="https://twitter.com/SMITHPEDIA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Smithson Dmello"
