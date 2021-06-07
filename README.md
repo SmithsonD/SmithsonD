@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmithsonD
+- 👋 Hi, I’m @SmithsonDmello
 - 👀 I’m interested in BI, Cloud Computing
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me ...
